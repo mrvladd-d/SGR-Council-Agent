@@ -133,7 +133,6 @@ erc3-council-agent/
 │   ├── llm_client.py     # OpenAI-compatible API client
 │   ├── config.py         # Model configuration
 │   └── logger.py         # Detailed logging
-├── pyproject.toml
 ├── requirements.txt
 └── .env.example
 ```
@@ -144,8 +143,7 @@ erc3-council-agent/
 
 ```bash
 cd erc3-council-agent
-uv sync
-# or: pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 2. Configure
