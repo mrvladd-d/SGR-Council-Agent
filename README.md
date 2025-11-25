@@ -1,5 +1,7 @@
 # ERC3 Council Agent
 
+![Council Agent](image.png)
+
 A multi-LLM "council" agent for solving [ERC3 benchmark](https://erc.timetoact-group.at/) tasks through collaborative deliberation with anonymous peer review.
 
 > **Inspiration:** This project is inspired by [LLM Council](https://github.com/karpathy/llm-council) by Andrej Karpathy — a system where multiple LLMs collaboratively answer questions using plan → peer review → chairman synthesis.
