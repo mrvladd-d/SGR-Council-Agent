@@ -1,0 +1,3 @@
+ --extra-index-url https://erc.timetoact-group.at/
+erc3>=1.0.4
+openai>=2.8.1
